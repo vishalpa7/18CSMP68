@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Visiting Card</string>
+    <string name="company_name">GOOGLE</string>
+    <string name="emp_name">Pranav M S</string>
+    <string name="job_title">Full-Stack Developer</string>
+    <string name="phone_number">Phone : +91-XXX-XXX-XXXX</string>
+    <string name="address">Address : Bangalore</string>
+    <string name="email">Email : contact@pranavms.ml</string>
+    <string name="fax">Fax : +91-80-XXXXXXXX</string>
+    <string name="website">Website : https://pranavms.ml</string>
+</resources>
